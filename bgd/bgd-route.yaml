@@ -6,7 +6,7 @@ metadata:
     app: bgd
   name: bgd
 spec:
-  host: ""
+  host: "bgd-bgd.apps.arod.isd.upmc.edu"
   port:
     targetPort: 8080
   to:
